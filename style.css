@@ -1,0 +1,56 @@
+
+h1 {
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+
+
+.card-first {
+    margin-top: 100px;
+}
+
+.card-espace {
+    margin-bottom: 25px;
+    border-radius: 30px;
+}
+
+.card-border {
+    border: none;
+    border-radius: 30px !important;
+    
+}
+
+.btn-text {
+
+    width: 100%;
+    text-align: center;
+    text-decoration: none !important;
+    color: black !important;
+    
+}
+
+a {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+    display: block; 
+}
+
+a:hover {
+    color:rgb(75, 73, 73);
+    text-decoration:none;
+    }
+
+h6 {
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    border-bottom: 0.5px solid rgb(199, 191, 191);
+   
+}
